@@ -9,6 +9,7 @@ It's easier to answer this question in terms of what should **not** be open sour
 1. Don't open source anything that represents core business value.  If it makes us lots of money by being closed source, don't open source it.
 2. Don't open source anything that is specific to internal processes. If it won't be useful to anyone that doesn't work here, don't open source it.
 3. Don't open source anything you can't commit to maintaining long-term. Some projects are inherently difficult to maintain. If you don't want to spend time accepting contributions and working with the open source community, don't open source it.
+4. Don't open source anything which contains customer database and private information.
 
 ## Open Source Maintainer Expectations
 
